@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Davis Ernst 👋</h1>
+  <h1>Hi, I'm Davis Ernst</h1>
   <h3>Computer Science Student @ USASK | Software Developer</h3>
   <p>
     <a href="https://www.linkedin.com/in/davis-ernst-987391362"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -10,23 +10,23 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Computer Science student at the University of Saskatchewan with a passion for **Software Development**. What drives me most in this field is **problem-solving** and building stuff that genuinely helps people.
+I'm a Computer Science student at the University of Saskatchewan with a passion for Software Development. What drives me most in this field is problem-solving and building stuff that genuinely helps people.
 
-- 🎓 **Student @ USASK**: Currently pursuing my degree.
-- 🚀 **Goal-Oriented**: Focused on building a career through creating impactful and efficient software.
-- ⚽ **Sports Enthusiast**: Big fan of soccer and basketball (and sports in general!).
-- 🎬 **Cinephile**: I enjoy diving into a good movie when I'm not behind a keyboard.
+- **Student @ USASK**: Currently pursuing my degree.
+- **Goal-Oriented**: Focused on building a career through creating impactful and efficient software.
+- **Sports Enthusiast**: Big fan of soccer and basketball (and sports in general!).
+- **Cinephile**: I enjoy diving into a good movie when I'm not behind a keyboard.
 
-- 🔭 I'm currently working on my **[TypeScript Gameboy Emulator](https://github.com/davisernst04/typescript_gameboy_emulator)** and my **[Personal Portfolio](https://github.com/davisernst04/portfolio)**.
-- 🌱 I'm currently deepening my knowledge in **Machine learning and full-stack development**.
-- 👯 I'm looking to collaborate on **open-source web applications**.
-- 📫 Reach out via: **davis.ernst@outlook.com**
+- I'm currently working on my **[TypeScript Gameboy Emulator](https://github.com/davisernst04/typescript_gameboy_emulator)** and my **[Personal Portfolio](https://github.com/davisernst04/portfolio)**.
+- I'm currently deepening my knowledge in **Machine learning and full-stack development**.
+- I'm looking to collaborate on **open-source web applications**.
+- Reach out via: **davis.ernst@outlook.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -41,36 +41,26 @@ I'm a Computer Science student at the University of Saskatchewan with a passion 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎮 [TypeScript Gameboy Emulator](https://github.com/davisernst04/typescript_gameboy_emulator)
+### [TypeScript Gameboy Emulator](https://github.com/davisernst04/typescript_gameboy_emulator)
 > **A fully functional Gameboy emulator built from the ground up.**
 - **Tech:** `TypeScript`
 - Implements accurate CPU instruction cycles, memory mapping, and graphics rendering.
 
-### 🏀 [Real Time Game Analysis](https://davisernst.com)
+### [Real Time Game Analysis](https://davisernst.com)
 > **Real-time sports analytics tool developed with the SPEN Club at USASK.**
 - **Tech:** `Python`, `Data Analysis`
 - Designed to provide immediate feedback and insights during active gameplay.
 
-### 🏘️ [Shadow Basketball Official Website](https://davisernst.com)
+### [Shadow Basketball Official Website](https://davisernst.com)
 > **A basketball registration and management platform for Shadow Basketball.**
 - **Tech:** `Full-Stack Web`
 - Simplifies league organization and player registration for basketball communities.
 
-### 📊 [Managy](https://github.com/davisernst04/managy)
-> **A collaborative management application for clubhouses.**
-- **Tech:** `Python`, `Scripting`
-- Developed as a group project at USASK to streamline workflow management.
-
-### 🤔 [Ye Guesser](https://github.com/davisernst04/ye_guesser)
-> **Interactive web-based guessing game.**
-- **Tech:** `TypeScript`, `Frontend Web`
-- A showcase of interactive UI logic and engaging user experience.
-
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davisernst04&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Davis's GitHub Stats" height="170"/>
@@ -88,5 +78,5 @@ I'm a Computer Science student at the University of Saskatchewan with a passion 
 </div>
 
 <div align="center">
-  <i>⭐️ Built by <a href="https://github.com/davisernst04">Davis Ernst</a></i>
+  <i>Built by <a href="https://github.com/davisernst04">Davis Ernst</a></i>
 </div>
