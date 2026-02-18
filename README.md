@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Davis Ernst</h1>
+  <h1>Davis Ernst</h1>
   <h3>Computer Science Student @ USASK | Software Developer</h3>
   <p>
     <a href="https://www.linkedin.com/in/davis-ernst-987391362"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -16,8 +16,8 @@ I'm a Computer Science student at the University of Saskatchewan with a passion 
 
 - **Student @ USASK**: Currently pursuing my degree.
 - **Goal-Oriented**: Focused on building a career through creating impactful and efficient software.
-- **Sports Enthusiast**: Big fan of soccer and basketball (and sports in general!).
-- **Cinephile**: I enjoy diving into a good movie when I'm not behind a keyboard.
+- **Sports Enthusiast**: Big fan of soccer and basketball.
+- **Cinephile**: I enjoy diving into a good movie.
 
 - I'm currently working on my **[TypeScript Gameboy Emulator](https://github.com/davisernst04/typescript_gameboy_emulator)** and my **[Personal Portfolio](https://github.com/davisernst04/portfolio)**.
 - I'm currently deepening my knowledge in **Machine learning and full-stack development**.
