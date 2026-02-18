@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Davis Ernst 👋</h1>
+  <h1>Hi, I'm Davis Ernst 👋</h1>
   <h3>Computer Science Student @ USASK | Software Developer</h3>
   <p>
     <a href="https://www.linkedin.com/in/davis-ernst-987391362"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -12,13 +12,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at the University of Saskatchewan and a software developer who enjoys tackling prpblems. From building low-level system emulators to creating interactive web applications, I enjoy building projects that push my boundaries and help me learn new concepts.
+I'm a Computer Science student at the University of Saskatchewan with a passion for **Software Development**. What drives me most in this field is **problem-solving** and building stuff that genuinely helps people.
+
+- 🎓 **Student @ USASK**: Currently pursuing my degree.
+- 🚀 **Goal-Oriented**: Focused on building a career through creating impactful and efficient software.
+- ⚽ **Sports Enthusiast**: Big fan of soccer and basketball (and sports in general!).
+- 🎬 **Cinephile**: I enjoy diving into a good movie when I'm not behind a keyboard.
 
 - 🔭 I'm currently working on my **[TypeScript Gameboy Emulator](https://github.com/davisernst04/typescript_gameboy_emulator)** and my **[Personal Portfolio](https://github.com/davisernst04/portfolio)**.
-- 🌱 I'm currently deepening my knowledge in **System Architecture, TypeScript, and Python**.
+- 🌱 I'm currently deepening my knowledge in **Machine learning and full-stack development**.
 - 👯 I'm looking to collaborate on **open-source web applications**.
-- 💬 Ask me about **TypeScript, Python, or being a CS student**.
-- 📫 How to reach me: **davis.ernst@outlook.com**
+- 📫 Reach out via: **davis.ernst@outlook.com**
 
 ---
 
@@ -40,19 +44,29 @@ I'm a Computer Science student at the University of Saskatchewan and a software 
 ## 🚀 Featured Projects
 
 ### 🎮 [TypeScript Gameboy Emulator](https://github.com/davisernst04/typescript_gameboy_emulator)
-> **A fully functional Gameboy emulator built entirely from scratch.**
-- **Technologies:** `TypeScript`, `Web APIs`
-- Focuses on accurate CPU instruction emulation and memory management.
+> **A fully functional Gameboy emulator built from the ground up.**
+- **Tech:** `TypeScript`
+- Implements accurate CPU instruction cycles, memory mapping, and graphics rendering.
 
-### 🤔 [Ye Guesser](https://github.com/davisernst04/ye_guesser)
-> **An interactive web-based guessing game.**
-- **Technologies:** `TypeScript`, `Frontend Web`
-- A fun, engaging web project showcasing frontend logic and user interaction.
+### 🏀 [Real Time Game Analysis](https://davisernst.com)
+> **Real-time sports analytics tool developed with the SPEN Club at USASK.**
+- **Tech:** `Python`, `Data Analysis`
+- Designed to provide immediate feedback and insights during active gameplay.
+
+### 🏘️ [Shadow Basketball Official Website](https://davisernst.com)
+> **A basketball registration and management platform for Shadow Basketball.**
+- **Tech:** `Full-Stack Web`
+- Simplifies league organization and player registration for basketball communities.
 
 ### 📊 [Managy](https://github.com/davisernst04/managy)
-> **A management and utility tool built in Python.**
-- **Technologies:** `Python`
-- Showcases backend logic, scripting, and data handling.
+> **A collaborative management application for clubhouses.**
+- **Tech:** `Python`, `Scripting`
+- Developed as a group project at USASK to streamline workflow management.
+
+### 🤔 [Ye Guesser](https://github.com/davisernst04/ye_guesser)
+> **Interactive web-based guessing game.**
+- **Tech:** `TypeScript`, `Frontend Web`
+- A showcase of interactive UI logic and engaging user experience.
 
 ---
 
