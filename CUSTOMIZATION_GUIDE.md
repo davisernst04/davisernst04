@@ -63,7 +63,9 @@ Fill in the bullet points:
 
 ### 5. GitHub Stats Section
 
-The stats are **automatically generated** using your username `davisernst04`. The stats will update dynamically.
+The stats are **automatically generated** using the username `davisernst04` **which you need to replace with your own GitHub username** for the stats to display correctly.
+
+**Important:** These stats rely on external services (github-readme-stats and streak-stats). They may occasionally not display if those services are experiencing downtime.
 
 **Optional customizations:**
 - Change theme: Replace `theme=radical` with other themes like:

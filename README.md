@@ -63,6 +63,8 @@ I'm a passionate [Your Role] with [Number] years of experience in [Your Field/In
 
 ## 📊 GitHub Stats
 
+> **Note:** The stats below are dynamically generated using external services. Replace `davisernst04` with your GitHub username.
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davisernst04&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisernst04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
