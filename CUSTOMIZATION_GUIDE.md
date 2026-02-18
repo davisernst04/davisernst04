@@ -25,7 +25,7 @@ Update these URLs with your actual profiles:
 ### 3. About Me Section
 Customize these placeholders:
 - `[Your Role]` → e.g., "Software Engineer", "Data Scientist", "Web Developer"
-- `[X]` → Number of years of experience (e.g., "3")
+- `[Number]` → Number of years of experience (e.g., "3" or "three")
 - `[Your Field/Industry]` → e.g., "web development", "machine learning", "cybersecurity"
 - `[Your Specialties]` → e.g., "full-stack development and cloud architecture"
 - `[types of projects/solutions you enjoy creating]` → e.g., "scalable web applications"

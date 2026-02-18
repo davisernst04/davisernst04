@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate [Your Role] with [X] years of experience in [Your Field/Industry]. I specialize in [Your Specialties] and love building [types of projects/solutions you enjoy creating].
+I'm a passionate [Your Role] with [Number] years of experience in [Your Field/Industry]. I specialize in [Your Specialties] and love building [types of projects/solutions you enjoy creating].
 
 - 🔭 I'm currently working on **[Current Project/Job]**
 - 🌱 I'm currently learning **[Technologies/Skills you're learning]**
