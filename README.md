@@ -1,16 +1,13 @@
 # Davis Ernst
 
-Computer Science student at the **University of Saskatchewan** with interests in **full-stack development** and **systems programming**.
-
-I build practical software with a strong focus on technical depth, clear interfaces, and real-world use.
+Computer Science student at the University of Saskatchewan with interest in full-stack development.
 
 ## Current Work
 
-- **[TypeScript GameBoy Emulator](https://github.com/davisernst04/typescript_gameboy_emulator)** — A GameBoy emulator built in TypeScript with cycle-aware CPU emulation, memory-mapped I/O, tile-based rendering, and interrupt handling.
+- **[TypeScript GameBoy Emulator](https://github.com/davisernst04/typescript_gameboy_emulator)** — A GameBoy emulator built in TypeScript with CPU emulation, memory-mapped I/O, tile-based rendering, and interrupt handling.
 - **[SPEN — Real-Time Game Analysis](https://github.com/davisernst04/spen)** — A sports analytics platform developed with the SPEN Club at the University of Saskatchewan for the women's soccer team. Contributed across UI/UX, frontend, and product direction.
 - **[Shadow Basketball](https://github.com/davisernst04/shadow-basketball)** — A registration and league management platform for a Saskatoon basketball organization, covering player registration, scheduling, and team administration.
-- **[Portfolio](https://davisernst.com)** — Personal site built with Next.js and PostgreSQL.
-
+- **[Portfolio](https://davisernst.com)** — Personal site built using Next.js.
 ## Technical Focus
 
 **Languages**
@@ -33,6 +30,7 @@ I build practical software with a strong focus on technical depth, clear interfa
 - Node.js
 - Git
 - ESLint
+- Linux
 
 ## GitHub
 
@@ -45,7 +43,3 @@ I build practical software with a strong focus on technical depth, clear interfa
 - **Portfolio:** [davisernst.com](https://davisernst.com)
 - **Email:** [davis.ernst@outlook.com](mailto:davis.ernst@outlook.com)
 - **GitHub:** [github.com/davisernst04](https://github.com/davisernst04)
-
----
-
-Currently seeking Summer 2026 software engineering internships in Canada, including Saskatoon, remote, and relocation opportunities.
