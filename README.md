@@ -1,55 +1,51 @@
-# Hey, I'm Davis 👋
+# Davis Ernst
 
-I'm a 4th year Computer Science student at the **University of Saskatchewan**, focused on **full-stack development** and **systems-level programming**. I care about writing software that solves real problems — whether that's emulating hardware at the cycle level or building tools that coaches use on game day.
+Computer Science student at the **University of Saskatchewan** with interests in **full-stack development** and **systems programming**.
 
-## 🔧 What I'm Working On
+I build practical software with a strong focus on technical depth, clear interfaces, and real-world use.
 
-- **[TypeScript GameBoy Emulator](https://github.com/davisernst04/typescript_gameboy_emulator)** — A ground-up GameBoy emulator featuring accurate CPU instruction cycle emulation, memory-mapped I/O, tile-based GPU rendering, and interrupt handling. Built entirely in TypeScript with HTML5 Canvas.
+## Current Work
 
-- **[SPEN — Real-Time Game Analysis](https://github.com/davisernst04/spen)** — Sports analytics platform built with the SPEN Club at U of S for the women's soccer team. Provides real-time feedback and performance insights during active gameplay. UI/UX lead. Stack: Python (ML models, backend) · TypeScript/React/CSS (frontend).
+- **[TypeScript GameBoy Emulator](https://github.com/davisernst04/typescript_gameboy_emulator)** — A GameBoy emulator built in TypeScript with cycle-aware CPU emulation, memory-mapped I/O, tile-based rendering, and interrupt handling.
+- **[SPEN — Real-Time Game Analysis](https://github.com/davisernst04/spen)** — A sports analytics platform developed with the SPEN Club at the University of Saskatchewan for the women's soccer team. Contributed across UI/UX, frontend, and product direction.
+- **[Shadow Basketball](https://github.com/davisernst04/shadow-basketball)** — A registration and league management platform for a Saskatoon basketball organization, covering player registration, scheduling, and team administration.
+- **[Portfolio](https://davisernst.com)** — Personal site built with Next.js and PostgreSQL.
 
-- **[Shadow Basketball](https://github.com/davisernst04/shadow-basketball)** — Registration and league management platform for a local Saskatoon basketball organization. Full-stack web app handling player registration, scheduling, and team management.
-
-- **[Personal Portfolio](https://davisernst.com)** — Built with Next.js, shadcn/ui, Prisma, and Better Auth. Hosted on Vercel with PostgreSQL on Neon. Includes a technical blog.
-
-## 🛠 Tech Stack
+## Technical Focus
 
 **Languages**
+- TypeScript
+- JavaScript
+- Python
+- SQL
+- Shell
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+**Frameworks and Libraries**
+- Next.js
+- React
+- Django
+- Tailwind CSS
+- Framer Motion
 
-**Frameworks & Libraries**
+**Infrastructure and Tooling**
+- PostgreSQL
+- Docker
+- Node.js
+- Git
+- ESLint
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+## GitHub
 
-**Tools & Infrastructure**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davisernst04&show_icons=false&theme=default&hide_border=true&count_private=true&title_color=111827&text_color=374151&icon_color=374151&bg_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davisernst04&layout=compact&theme=default&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davisernst04&theme=default&hide_border=true&ring=374151&fire=374151&currStreakLabel=111827&sideNums=374151&currStreakNum=111827&dates=6b7280&sideLabels=6b7280&background=ffffff)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davisernst04&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davisernst04&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davisernst04&theme=radical&hide_border=true)
-
-## 📫 Let's Connect
+## Contact
 
 - **Portfolio:** [davisernst.com](https://davisernst.com)
 - **Email:** [davis.ernst@outlook.com](mailto:davis.ernst@outlook.com)
-- **GitHub:** You're already here.
+- **GitHub:** [github.com/davisernst04](https://github.com/davisernst04)
 
 ---
 
-*Currently seeking Summer 2026 software engineering internships across Canada. Open to Saskatoon, remote, or relocation.*
+Currently seeking Summer 2026 software engineering internships in Canada, including Saskatoon, remote, and relocation opportunities.
