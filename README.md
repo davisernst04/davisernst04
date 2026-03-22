@@ -1,5 +1,5 @@
 # Davis Ernst
-Computer Science student and Software at the University of Saskatchewan.
+Computer Science Student and Software Developer at the University of Saskatchewan.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=davisernst04&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
