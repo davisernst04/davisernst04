@@ -32,12 +32,6 @@ Computer Science student at the University of Saskatchewan with interest in full
 - ESLint
 - Linux
 
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davisernst04&show_icons=false&theme=default&hide_border=true&count_private=true&title_color=111827&text_color=374151&icon_color=374151&bg_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davisernst04&layout=compact&theme=default&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davisernst04&theme=default&hide_border=true&ring=374151&fire=374151&currStreakLabel=111827&sideNums=374151&currStreakNum=111827&dates=6b7280&sideLabels=6b7280&background=ffffff)
-
 ## Contact
 
 - **Portfolio:** [davisernst.com](https://davisernst.com)
