@@ -8,7 +8,6 @@ Computer Science Student and Software Developer at the University of Saskatchewa
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davisernst04&theme=github-dark&hide_border=true" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davisernst04&theme=github_dark" height="160"/>
 </p>
 
 ## Contact
