@@ -39,5 +39,5 @@ A deployed registration platform for a local youth basketball club.
 ## Contact
 
 - **Portfolio:** [davisernst.com](https://davisernst.com)
-- **LinkedIn:** [linkedin.com/in/davis-ernst-987391362](https://www.linkedin.com/in/davis-ernst-987391362)
+- **LinkedIn:** [linkedin.com/in/davisernst](https://www.linkedin.com/in/davisernst)
 - **Email:** [davis.ernst@outlook.com](mailto:davis.ernst@outlook.com)
