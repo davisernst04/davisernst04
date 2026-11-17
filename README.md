@@ -1,8 +1,4 @@
-# Hi, I'm Davis Ernst
-
-Computer Science student at the University of Saskatchewan, graduating **April 2027**. I build backend and full-stack applications with TypeScript and Python.
-
-Open to **2027 new-grad software engineering roles**.
+# Davis Ernst
 
 [Portfolio](https://davisernst.com) · [LinkedIn](https://www.linkedin.com/in/davisernst) · [Email](mailto:davis.ernst@outlook.com)
 
